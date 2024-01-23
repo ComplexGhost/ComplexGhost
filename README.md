@@ -1,4 +1,3 @@
 - Yo, I'm Complex.
 - I Work in HTML/CSS and JavaScript (Node.js).
-- I currently am Learning SQL, Python and C#.
 - If you need help on anything, Reach out to me at ComplexGhost@proton.me
