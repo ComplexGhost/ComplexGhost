@@ -1,3 +1,3 @@
 - Yo, I'm Complex.
-- I Work in HTML/CSS and JavaScript (Node.js).
+- I Work in HTML/CSS and JavaScript.
 - If you need help on anything, Reach out to me at ComplexGhost@proton.me
